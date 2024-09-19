@@ -10,9 +10,9 @@ import '../css/ex01.css';
 */
 
 //자바스크립트 객체
-let cssex = {
-    width: '20px'
-}
+// let cssex = {
+//     width: '20px'
+// }
 
 let name ="황일영";
 
