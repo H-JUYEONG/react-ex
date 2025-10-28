@@ -26,8 +26,8 @@ const Ex12 = () => {
         <tbody>
           {
             personList.map((personVo, index) => {
-              // console.log("aaa");
-              // console.log(index);
+              console.log("aaa");
+              console.log(index);
               return (
                 <tr>
                   <td>{totalCnt - index}</td>
