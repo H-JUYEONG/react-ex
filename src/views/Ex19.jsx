@@ -21,7 +21,7 @@ const Ex19 = () => {
   console.log("클릭");
 
   const userVo = {
-    id: 'dud9902',
+    id: 'z1x2c3',
     pw: '1234',
     blood: 'B',
     hobbys: ['trip', 'movie'],
